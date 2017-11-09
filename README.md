@@ -201,7 +201,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns please contact Kelsey Langlois at [@gmail.com]; Linda Luu at kels.langlois@gmail.com; Rafael Furry at [@gmail.com]; Debbie Michel at [debbiemichel1633@gmail.com]. You are welcome to fork this repository and contribute to the code._
+_If you run into any issues or have questions, ideas or concerns please contact Kelsey Langlois, Linda Luu, Rafael Furry, Debbie Michel. You are welcome to fork this repository and contribute to the code._
 
 ## Technologies Used
 
